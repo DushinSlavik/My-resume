@@ -1,0 +1,14 @@
+.jumbotron {
+     transition: box-shadow 0.5s;
+     box-shadow: 5px 0px 40px rgba(0,0,0, .2);   
+  }
+
+  #foto {
+  	transition: box-shadow 0.5s;
+    box-shadow: 5px 0px 40px rgba(0,0,0, .2);
+  }
+
+  .img {
+    margin: auto;
+    width: 40%;
+  }
